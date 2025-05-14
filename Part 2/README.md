@@ -1,4 +1,5 @@
-# Part-2
+Project details Project name:ST10188142 Part1 Netframe:4.0.8 Template:Part 1 netframework
+
  1. Chatbot Class:
  • The main logic is inside the Chatbot class.
  • It includes private variables to store the user’s name and their area of interest.
